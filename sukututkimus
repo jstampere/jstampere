@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Description of the document -->
+    <meta charset="UTF-8" />
+	<title>
+	  Auto
+	</title>
+	<style>
+		/* comment */
+	</style>
+</head>
+
+<body>
+ 	<h1>
+		<!-- your content goes here -->
+		Ylöjärven Uutisten kesälehti
+	</h1>
+	 <img
+		src="ylojarvenuutiset01.jpg"
+		alt="coffee"
+		width="400"
+		>
+	 <p>
+		<br>
+		<hr>
+	 </p>
+</body>
+
+</html>
